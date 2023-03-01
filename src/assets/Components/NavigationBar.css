@@ -1,0 +1,161 @@
+.bungkus-2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.YukLulus {
+    display: flex;  
+}
+
+.fontyuk {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+    color:#00000F;
+}
+
+.fontlus {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+   
+    color:#FE650F; 
+}
+
+ .halt {
+    display: flex;   
+    gap:48px  
+}   
+
+.home {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border: none; 
+    background: none;
+
+    color: #000000;
+}
+
+.about {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border: none; 
+    background: none;
+
+    color: #000000;
+}
+
+.layanan {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border: none; 
+    background: none;
+
+    color: #000000;
+}
+
+.testimoni {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border: none; 
+    background: none;
+
+    color: #000000;
+}
+
+.bungkus-3 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.selesaikan {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 63px;
+    width: 430px;
+    text-align: start;
+    margin-top: 100px;
+    
+    color: #000000;
+
+}
+
+.kami {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    width: 400px;
+    margin-top: 30px;
+    text-align: start;
+
+    color: #000000;
+}
+
+.mulai {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    border: none;
+    width: 265px;
+    margin-top: 50px;
+    margin-right: 200px;
+
+    background: #F95057;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    color: #FFFFFF;
+    height: 50px;
+}
+
+.layanankami {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    margin-top: 150px;
+
+    color: #000000;
+}
+
+.analisa {
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+.hewan {
+    margin-left: 50px;
+}
+
+.konsultan {
+    margin-left: 50px;
+}
+
+.translet {
+    margin-left: 50px;
+}
+
+    
