@@ -1,5 +1,5 @@
 import { Navbar, Container, Nav, NavbarBrand } from "react-bootstrap"
-import vector from "../Components/imagepriview/Vector.png"
+import vector from "../Components/imagepriview/vector.png"
 import konsultan from "../Components/imagepriview/Konsultan skripsi.png"
 import analisa from "../Components/imagepriview/AnalisaData.png"
 import hewan from "../Components/imagepriview/HewanPercobaan.png"
